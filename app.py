@@ -6,7 +6,7 @@ html = requests.get('https://www.climatempo.com.br/previsao-do-tempo/cidade/1310
 soup = BeautifulSoup(html, 'html.parser')
 
 tempMin = soup.find(id='min-temp-1')
-print(tempMin.text)
+print(f'A temperatura mínima é {tempMin.text}')
 
 tempMax = soup.find(id='max-temp-1')
-print(tempMax.text)
+print(f'A temperatura máxima é {tempMax.text}')
