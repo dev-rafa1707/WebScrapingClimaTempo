@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-html = requests.get('https://www.climatempo.com.br/')
+html = requests.get('https://www.climatempo.com.br/').text
 
 soup = BeautifulSoup(html, 'html.parser')
 
