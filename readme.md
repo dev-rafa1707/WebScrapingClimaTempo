@@ -7,3 +7,4 @@ venv/Scripts/Activate.bat
 
 install library
 * pip install requests
+* pip install beautifulsoup4
