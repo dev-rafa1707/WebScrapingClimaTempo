@@ -16,7 +16,8 @@ tempMax = soup.find(id='max-temp-1')
 print(f'A temperatura máxima é {tempMax.text}')
 
 resumo = soup.find(class_= '-gray -line-height-24 _center')
-resumo = resumo.text.strip()
+resumo = resumo.text
+resumo = resumo.strip()
 print(f'Resumo: {resumo}')
 
 
