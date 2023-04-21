@@ -1,3 +1,7 @@
+# Este projeto tem por objetivo realizar Web Scraping
+### Site origem Clima tempo
+### Obter informações sobre Tem Max, Tem min
+
 
 * criar o ambiente virtual
 python -m venv venv
