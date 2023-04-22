@@ -9,7 +9,10 @@ Em construção
 ### Features
 
 
+### Pré-requisitos
+* Ter o Python instalado
 
+### Como rodar a aplicação
 * criar o ambiente virtual
 python -m venv venv
 
