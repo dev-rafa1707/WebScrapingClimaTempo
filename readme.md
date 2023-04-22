@@ -2,6 +2,9 @@
 ### Site origem Clima tempo
 ### Obter informações sobre Tem Max, Tem min
 
+### Status do Projeto:
+Em construção
+
 
 * criar o ambiente virtual
 python -m venv venv
