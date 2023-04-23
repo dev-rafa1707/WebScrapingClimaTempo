@@ -3,7 +3,10 @@
 <https://www.climatempo.com.br/>
 
 ### Information obtained
-location, maximum temperature, minimum temperature and additional information
+* Location;
+* Maximum temperature;
+* Minimum temperature and
+* Additional information
 
 
 ### Status do Projeto:
