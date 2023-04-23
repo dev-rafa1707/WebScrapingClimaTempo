@@ -1,6 +1,10 @@
 # Este projeto tem por objetivo realizar Web Scraping
-### Site origem Clima tempo
-### Obter informações sobre Tem Max, Tem min
+### Source Clima tempo
+<https://www.climatempo.com.br/>
+
+### Information obtained
+location, maximum temperature, minimum temperature and additional information
+
 
 ### Status do Projeto:
 Em construção
