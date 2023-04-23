@@ -31,7 +31,10 @@ Web Scrapping
 <https://pypi.org/project/beautifulsoup4/>
 
 
-### Como rodar a aplicação
+### How to run the application
+* download de project from 
+<https://github.com/dev-rafa1707/WebScrapingClimaTempo.git>
+
 * create the virtual environment
 python -m venv venv
 
@@ -43,4 +46,5 @@ Install the Libraries
 * pip install beautifulsoup4
 
 
-### Para testar o projeto
+### How to test the project
+Once you have the application downloaded on your machine, just run the app.py application
