@@ -1,6 +1,7 @@
-# Este projeto tem por objetivo realizar Web Scraping
+# This project aims to do web scraping. Extract data from a website
 ### Source Clima tempo
 <https://www.climatempo.com.br/>
+
 
 ### Information obtained
 * Location;
@@ -17,17 +18,27 @@ Under construction...
 Web Scrapping
 
 
-### Pré-requisitos
-* Ter o Python instalado
+### Requirements
+* have python already installed
+
+
+### Libraries
+
+* Requests
+<https://pypi.org/project/requests/>
+
+* Beautifulsoup
+<https://pypi.org/project/beautifulsoup4/>
+
 
 ### Como rodar a aplicação
-* criar o ambiente virtual
+* create the virtual environment
 python -m venv venv
 
-* ativar ambiente virtual
+* activate the virtual environment
 venv/Scripts/Activate.bat
 
-install library
+Install the Libraries
 * pip install requests
 * pip install beautifulsoup4
 
