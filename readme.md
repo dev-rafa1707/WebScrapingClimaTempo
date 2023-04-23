@@ -9,11 +9,12 @@
 * Additional information
 
 
-### Status do Projeto:
-Em construção
+### Project status:
+Under construction...
 
 
 ### Features
+Web Scrapping
 
 
 ### Pré-requisitos
